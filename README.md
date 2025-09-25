@@ -1,5 +1,5 @@
 echo "# Lab Exam Submission" > README.md
-echo "Name: <Lohith Gogineni>" >> README.md
+echo "Name: <Lohith>" >> README.md
 echo "Roll No: <2320030024>" >> README.md
 echo "Project: <Lab Exam
                  
